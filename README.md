@@ -1,6 +1,6 @@
 <h1 align="center">Olá, sou Daniel Firme 👋</h1>
 
-- 🔭 Estou a procura de uma vaga remota no ramo de Desenvolvimento Web
+- 🔭 Estou a procura de uma vaga remota no ramo de Desenvolvimento Web ou trabalhos freelancer.
 - 🌱 Estou aprendendo React.js
 
 <div align="center">
