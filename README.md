@@ -24,6 +24,8 @@
   ![Snake animation](https://github.com/DanielFirme/DanielFirme/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+<br/>
+<p align="left"><img src="https://komarev.com/ghpvc/?username=DanielFirme" /></p>
 <!--
 **DanielFirme/DanielFirme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -38,5 +40,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<br/>
-<p align="left"><img src="https://komarev.com/ghpvc/?username=DanielFirme" /></p>
